@@ -32,7 +32,9 @@
    ```bash
    git clone https://github.com/iczyaer/alpine-xray.git
    cd alpine-xray
-   或者直接下载：
+
+  或者直接下载：
+   
    ```bash
    curl -O https://raw.githubusercontent.com/iczyaer/alpine-xray/main/install_xray.sh
    ```
