@@ -35,7 +35,7 @@
 
 或者直接下载：
    ```bash
-   curl -O https://raw.githubusercontent.com/iczyaer/alpine-xray/main/install_xray.sh
+   curl -O https://raw.githubusercontent.com/iczyaer/-alpine-xray-/refs/heads/main/install_xray.sh
    ```
 添加执行权限：
    ```
