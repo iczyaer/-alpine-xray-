@@ -33,5 +33,5 @@
    git clone https://github.com/iczyaer/alpine-xray.git
    cd alpine-xray
 或者直接下载：
-   `curl -O https://raw.githubusercontent.com/iczyaer/alpine-xray/main/install_xray.sh`
+   ```bash curl -O https://raw.githubusercontent.com/iczyaer/alpine-xray/main/install_xray.sh```
    
