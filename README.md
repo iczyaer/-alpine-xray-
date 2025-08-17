@@ -37,3 +37,16 @@
    ```bash
    curl -O https://raw.githubusercontent.com/iczyaer/alpine-xray/main/install_xray.sh
    ```
+添加执行权限：
+   ```
+   chmod +x install_xray.sh
+   ```
+以 root 权限运行脚本：
+   ```
+   sudo ./install_xray.sh
+   ```
+按提示输入配置参数：
+端口：建议使用默认值 42003，或输入其他未被占用的端口。
+WebSocket 路径：输入有效路径（如 /ws），不能为空。
+Host 域名：输入服务器的域名或 IP，需确保能解析到服务器，不能为空。
+脚本运行完成后，会输出配置信息和 VMess 链接。
